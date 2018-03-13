@@ -51,6 +51,7 @@ public class SquareDisplay{
        System.out.print("\n");//breaks line to start a new row
        
         }
+        //I have added a comment.
 
 
 
