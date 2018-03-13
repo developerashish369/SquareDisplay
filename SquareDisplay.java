@@ -13,6 +13,9 @@
   
   */
 
+   //Importing scanner class.
+   
+
 import java.util.Scanner;
 public class SquareDisplay{
     public static void main(String args[]){
